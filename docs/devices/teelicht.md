@@ -15,7 +15,7 @@ pageClass: device-page
 
 |     |     |
 |-----|-----|
-| Model | teelicht  |
+| Model | teelichtpro and teelichtpro max  |
 | Vendor  | [teelicht](/supported-devices/#v=teelicht)  |
 | Description | Rechargeable tealight that flickers like a real candle |
 | Exposes | light (state, brightness, color_temp), identify, power_state, battery, voltage, flicker_depth, flicker_speed, flicker_effect |
